@@ -1,6 +1,6 @@
 
 CC=gcc
-OBJS=hello.o
+OBJS=hello.o hello2.o
 .SUFFIXES=.c .o
 CFLAGS=-Wall
 
